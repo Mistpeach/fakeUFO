@@ -3,6 +3,9 @@
 # 如果你在其他人手里买到这个成品，说明你被骗了！！！！
 # 我在闲鱼只有（YumFish）这一个账号，该项目成品仅在快团团（香辣芭乐）和闲鱼（YumFish）进行过合法售卖，其他渠道得到的商业成品均为侵权！！！
 
+## 文档教程
+## https://ufo.yumfish.cn/docs/fakeufodocs/html
+
 ## 许可协议
 本项目所有代码采用 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) 许可。
 
